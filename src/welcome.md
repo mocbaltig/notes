@@ -2,4 +2,4 @@
 
 Hello, this site just contains notes. I'll be writing various things here.
 
-<- Refers to sidebar to see TOC
+See sidebar to see Table of Content
